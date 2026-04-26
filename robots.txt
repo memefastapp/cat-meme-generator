@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://memefastapp.github.io/cat-meme-generator/sitemap.xml

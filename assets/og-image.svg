@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Cat Meme Generator — Create Funny Cat Memes Free">
+  <!-- background -->
+  <rect width="1200" height="630" fill="#FAFAF7"/>
+  <!-- warm accent bar left -->
+  <rect width="8" height="630" fill="#D45D12"/>
+  <!-- decorative meme card shapes (background) -->
+  <rect x="820" y="40" width="340" height="260" rx="12" fill="#EDE9E3"/>
+  <rect x="820" y="40" width="340" height="44" rx="0" fill="#1E1A14" opacity="0.85"/>
+  <rect x="820" y="256" width="340" height="44" rx="0" fill="#1E1A14" opacity="0.85"/>
+  <text x="990" y="68" font-family="Impact, Arial Narrow, sans-serif" font-size="18" fill="white" text-anchor="middle" letter-spacing="1">ME EVERY MONDAY MORNING</text>
+  <text x="990" y="282" font-family="Impact, Arial Narrow, sans-serif" font-size="18" fill="white" text-anchor="middle" letter-spacing="1">GRUMPY CAT APPROVES NOT</text>
+
+  <rect x="860" y="320" width="300" height="220" rx="12" fill="#EDE9E3"/>
+  <rect x="860" y="320" width="300" height="40" rx="0" fill="#1E1A14" opacity="0.85"/>
+  <rect x="860" y="500" width="300" height="40" rx="0" fill="#1E1A14" opacity="0.85"/>
+  <text x="1010" y="346" font-family="Impact, Arial Narrow, sans-serif" font-size="16" fill="white" text-anchor="middle" letter-spacing="1">WHEN SOMEONE SAYS</text>
+  <text x="1010" y="522" font-family="Impact, Arial Narrow, sans-serif" font-size="16" fill="white" text-anchor="middle" letter-spacing="1">I SHOULD BUY A BOAT</text>
+
+  <!-- cat icon large -->
+  <g transform="translate(56, 80) scale(5.5)" fill="#D45D12">
+    <polygon points="4,16 8,4 13,16"/>
+    <polygon points="19,16 24,4 28,16"/>
+    <circle cx="16" cy="20" r="11"/>
+    <ellipse cx="12" cy="19" rx="2" ry="2.2" fill="#FAFAF7"/>
+    <ellipse cx="20" cy="19" rx="2" ry="2.2" fill="#FAFAF7"/>
+    <ellipse cx="12" cy="19.5" rx="0.9" ry="1.4" fill="#1E1A14"/>
+    <ellipse cx="20" cy="19.5" rx="0.9" ry="1.4" fill="#1E1A14"/>
+    <polygon points="16,22.5 14.5,24 17.5,24" fill="#FAFAF7"/>
+    <path d="M13.5 24.5 Q16 26.5 18.5 24.5" stroke="#FAFAF7" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- main headline -->
+  <text x="56" y="360" font-family="'Cabinet Grotesk', Georgia, serif" font-weight="800" font-size="72" fill="#1E1A14">Cat Meme</text>
+  <text x="56" y="446" font-family="'Cabinet Grotesk', Georgia, serif" font-weight="800" font-size="72" fill="#1E1A14">Generator</text>
+
+  <!-- tagline -->
+  <text x="56" y="498" font-family="'Satoshi', Helvetica, sans-serif" font-size="26" fill="#6B6659">Make a Cat Meme in Seconds</text>
+
+  <!-- pill badges -->
+  <rect x="56" y="524" width="170" height="36" rx="18" fill="#D45D12"/>
+  <text x="141" y="547" font-family="'Satoshi', Helvetica, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">Free · No Account</text>
+
+  <rect x="238" y="524" width="240" height="36" rx="18" fill="#EDE9E3"/>
+  <text x="358" y="547" font-family="'Satoshi', Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1E1A14" text-anchor="middle">Works on iOS, Android &amp; Web</text>
+
+  <!-- bottom accent bar -->
+  <rect y="610" width="1200" height="20" fill="#D45D12"/>
+  <text x="600" y="625" font-family="'Satoshi', Helvetica, sans-serif" font-size="13" fill="white" text-anchor="middle" font-weight="700">catmemegenerator.github.io · Powered by MemeFast.app</text>
+</svg>
